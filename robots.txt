@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://sportsurgelive.world/sitemap.xml
+Sitemap: https://buffstreamslive.world/sitemap.xml
+
 
